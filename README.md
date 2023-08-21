@@ -57,7 +57,7 @@ If you don't have yet a MySQL database running do this before. Because you need 
 
 ## Now you can start
 
-### What can you with the scripts
+### What can you do with the scripts
 
 Directory operations has two possible use cases.
 
